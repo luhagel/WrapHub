@@ -1,0 +1,22 @@
+{
+  "name": "WrapHub",
+  "version": "0.1.0",
+  "summary": "A short description of WrapHub.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/WrapHub",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Luca Hagel": "hagel.luca@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/WrapHub.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WrapHub/Classes/**/*"
+}

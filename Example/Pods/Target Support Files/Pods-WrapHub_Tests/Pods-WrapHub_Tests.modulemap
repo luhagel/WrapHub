@@ -1,0 +1,6 @@
+framework module Pods_WrapHub_Tests {
+  umbrella header "Pods-WrapHub_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

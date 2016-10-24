@@ -1,0 +1,16 @@
+PODS:
+  - WrapHub (0.1.0)
+
+DEPENDENCIES:
+  - WrapHub (from `../`)
+
+EXTERNAL SOURCES:
+  WrapHub:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WrapHub: 3c49ee30a61cf7cab83745b00db3b93338b47320
+
+PODFILE CHECKSUM: 8ae9e782c99456036a47607063d09920a3d1a1b3
+
+COCOAPODS: 1.1.1
