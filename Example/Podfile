@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WrapHub_Tests' do
+  pod 'WrapHub', :path => '../'
+  
+  
+end
